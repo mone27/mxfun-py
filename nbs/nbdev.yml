@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mxfun"
+  site-url: "https://mone27.github.io/mxfun"
+  description: "Mone eXtra FUNctions (mfun). Collection of utility functions"
+  repo-branch: main
+  repo-url: "https://github.com/mone27/mxfun-py"
